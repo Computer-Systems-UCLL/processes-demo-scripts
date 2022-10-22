@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Program to display the Fibonacci sequence up to n-th term
 
 nterms = int(input("How many terms? "))

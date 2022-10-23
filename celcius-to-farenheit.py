@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Python Program to convert temperature in celsius to fahrenheit
 
 # change this value for a different result

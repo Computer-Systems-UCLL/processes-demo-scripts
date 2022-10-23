@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Program to count the number of each vowels
 
 # string of vowels

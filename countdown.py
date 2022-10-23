@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import time
 
 def countdown(time_sec):

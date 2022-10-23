@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Python program to shuffle a deck of card
 
 # importing modules
